@@ -1,0 +1,8 @@
+#!/bin/sh
+# MODIFIED 2016-11-21:
+# Old:
+# LOG="/tmp/gnome-session-$(date).log"
+# echo "Arguments: $@" > "$LOG"
+# gnome-session --session=i3 "$@" --debug &>> "$LOG"
+# New:
+gnome-session --session=i3 "$@"

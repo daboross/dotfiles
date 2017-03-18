@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name="Shut Down, Power Off, Now"
+Name[en_US]="Shut Down, Power Off, Now"
+Comment=shutdown, halt
+Exec=systemctl poweroff
+Categories=Application;
+Version=1.0
+Type=Application
+Terminal=0
+Hidden=false
