@@ -45,4 +45,4 @@ Split Screen (actually taken just now when creating this repository!)
 
 ![vertical split](screenshots/split-screen-vertical.png)
 
-![horizontal split](screenshots/split-screen-horizontal.png)n
+![horizontal split](screenshots/split-screen-horizontal.png)
